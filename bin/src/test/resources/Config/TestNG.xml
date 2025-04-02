@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MyTestSuite">
+    <test name="MyTests">
+        <classes>
+            <class name="TestCaseExecution.TestCaseExecution">
+            <methods>
+                <include name="TestCase_FilterPriceRange"/>
+                <include name="TestCase_SearchItem"/>
+            </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

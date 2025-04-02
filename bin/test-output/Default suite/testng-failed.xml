@@ -6,6 +6,7 @@
       <class name="TestCaseExecution.TestCaseExecution">
         <methods>
           <include name="beforeTest"/>
+          <include name="TestCase_FilterPriceRange"/>
           <include name="TestCase_SearchItem"/>
           <include name="afterTest"/>
         </methods>
